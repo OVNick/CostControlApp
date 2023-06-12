@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/account_balance_wallet_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/add_notes_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/call_received_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/delete_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/ecg_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/edit_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/format_list_bulleted_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/home_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/north_east_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/restaurant_FILL0_wght500_GRAD0_opsz48.png</file>
+    <file>icons/stadia_controller_FILL0_wght500_GRAD0_opsz48.png</file>
+  </qresource>
+</RCC>
